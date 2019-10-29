@@ -20,8 +20,8 @@
 	height: 200px;
 	width:50%;
 	background-color: #6F98AC;
-	margin:0 auto;
-	/*align-self: flex-end;*/
+	/*margin:0 auto;*/
+	align-self: flex-end;
 
 }
 .box_three{
