@@ -1,0 +1,43 @@
+*{
+	box-sizing: border-box;
+}
+.cont{
+	width: 90%;
+	border: solid 3px red;
+	display: flex;
+	flex-direction: column;
+
+}
+.box_one{	
+	height: 150px;
+	width: 100%;
+	background-color: #6F98AC;
+	margin-bottom: 40px;
+
+
+}
+.box_two{
+	height: 200px;
+	width:50%;
+	background-color: #6F98AC;
+	margin:0 auto;
+	/*align-self: flex-end;*/
+
+}
+.box_three{
+	height: 150px;
+	width: 100%;
+	background-color: #6F98AC;
+	margin-top: 40px;
+}
+
+h1{
+	color: white;
+	text-align: center;
+	font-size: 72px;
+
+}
+.one h1{
+	padding-bottom: 10px; 
+
+}
