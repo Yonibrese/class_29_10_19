@@ -1,0 +1,38 @@
+*{
+	box-sizing: border-box;
+}
+.top{
+	display: inline-flex;
+}
+.red{
+	/*border:solid 1px black;*/
+	/*padding-right: 0px;*/
+}
+
+.red_1, .red_2, .red_3{
+	height: 100px;
+	width: 300px;
+	border: solid 2px black;
+	background-color: red;
+	margin: 20px
+
+}
+.blue{
+	/*border:solid 1px red;*/
+	}
+
+.blue_1, .blue_2, .blue_3{
+	height: 100px;
+	width: 600px;
+	border:solid 2px black;
+	background-color: blue;
+	margin: 20px;
+	
+}
+.yellow{
+	height: 100px;
+	width: 940px;
+	background-color: yellow;
+	border:solid 2px black;
+	margin: 0 20px;
+}
